@@ -2,3 +2,4 @@ ChromeDriver=C:\\eclipse-committers-oxygen-1a-win32-x86_64\\Selenium\\chromedriv
 IEDriver=
 ExcelPath=C:\\Users\\siva\\eclipse-workspace\\Dataprovider\\Data\\Data.xlsx
 Dataproviderpath = C:\\Users\\siva\\eclipse-workspace\\Dataprovider\\Data\\Data provider.xlsx
+Browser=
